@@ -1,0 +1,3 @@
+VM,Warning_Probability,Resource_Status,Recommended_Action
+Heavy VM,32.0,CAUTION,Increase monitoring frequency and review resource usage
+Light VM,0.0,NORMAL,Continue normal monitoring
